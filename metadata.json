@@ -1,0 +1,10 @@
+{
+  "name": "Adaptive Learning Pathway",
+  "description": "An adaptive bilingual (English/Urdu) educational portal aligned with the Sindh Textbook Board (STBB) for Pre-Engineering and Pre-Medical students (Grades 9-12), featuring subject-wise pathways, grade toggles, comprehensive board assessments, and smart timetabling.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
