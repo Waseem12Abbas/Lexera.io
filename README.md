@@ -84,8 +84,9 @@ PORT=5000
 Run the Development Server:Bashnpm run dev
 # or
 bun dev
-Open in Browser:Navigate to http://localhost:5173 to explore Lexera locally.👥 The TeamTeam MemberRoleFocus Area 
+Open in Browser:Navigate to (https://ai.studio/apps/959c8c90-acce-4ae9-b34e-bb3103d1ea6d?fullscreenApplet=true) to explore Lexera 
+**.👥 The TeamTeam MemberRoleFocus Area 
 Baqir Ali Kumbhar Team Leader Project Architecture, 
 AI Integration & Product Strategy
 Waseem Abbas Khaskheli Team LeaderFrontend Development, UI/UX Design & Adaptive Engine
-Syed Azam Ali ShahTeam LeaderEducational Curriculum Alignment & System Engineering
+Syed Azam Ali ShahTeam LeaderEducational Curriculum Alignment & System Engineering**
