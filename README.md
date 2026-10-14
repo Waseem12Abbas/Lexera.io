@@ -25,7 +25,7 @@ In regional education systems across Pakistan—specifically under the **Sindh T
 
 ---
 
-## 💡 The Solution: Lexer
+## 💡 The Solution: Lexera.io
 
 **Lexera** is an AI-powered, bilingual (English & Urdu) adaptive learning platform designed specifically for Sindh Board students across Grades 9–12 (SSC & HSC) in both Pre-Engineering and Pre-Medical streams.
 
@@ -86,5 +86,6 @@ Run the Development Server:Bashnpm run dev
 bun dev
 Open in Browser:Navigate to http://localhost:5173 to explore Lexera locally.👥 The TeamTeam MemberRoleFocus Area 
 Baqir Ali Kumbhar Team Leader Project Architecture, 
-AI Integration & Product StrategyWaseem Abbas Khaskheli Team LeaderFrontend Development, UI/UX Design & Adaptive EngineSyed 
-Azam Ali ShahTeam LeaderEducational Curriculum Alignment & System Engineering
+AI Integration & Product Strategy
+Waseem Abbas Khaskheli Team LeaderFrontend Development, UI/UX Design & Adaptive Engine
+Syed Azam Ali ShahTeam LeaderEducational Curriculum Alignment & System Engineering
