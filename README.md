@@ -1,6 +1,6 @@
 Markdown<div align="center">
 
-  # 🎓 Lexera: ED-01 Adaptive Learning Path
+  # 🎓 Lexera: Adaptive Learning Path
   ### *Empowering Sindh Board Students through Personalized & Bilingual AI Learning Pathways*
 
   [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
